@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Laurent, i'm from France, living in Caen (Normandy) and I am an Android Developper <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="15px" height="15px"/>.
+I'm Laurent, I'm from France, living in Caen (Normandy) and I am an Android Developper <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="15px" height="15px"/>.
 - 🔭 I’m currently working on real-time shopping list app
 - 🌱 I’m currently learning JetPack Compose and Figma
 - 📫 How to reach me: linkedin or email
