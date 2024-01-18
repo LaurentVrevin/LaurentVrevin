@@ -12,7 +12,10 @@ I'm Laurent, I'm from France, living in Caen (Normandy) and I am an Android Deve
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="25px" height="25px" align="left" style="padding-right:11px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25px" height="25px" align="left" style="padding-right:11px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="25px" height="25px" align="left" style="padding-right:11px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" height="25px" align="left" style="padding-right:11px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" height="25px" align="left" style="padding-right:11px;" /> </br>
+
+
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentvrevin&show_icons=true&theme=onedark)
 
