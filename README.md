@@ -15,6 +15,3 @@ I'm Laurent, I'm from France, living in Caen (Normandy) and I am an Android Deve
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" height="25px" align="left" style="padding-right:11px;" /> </br>
 
 
-### GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentvrevin&show_icons=true&theme=onedark)
-
