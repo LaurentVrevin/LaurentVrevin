@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I'm Laurent, I'm from France, living in Caen (Normandy) and I am an Android Developper <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="15px" height="15px"/>.
-- 🔭 I’m currently working on poker cross training app
+- 🔭 I’m currently working on pomodoro app
 - 🌱 I’m currently learning JetPack Compose and Figma
 - 📫 How to reach me: linkedin or email
 - ⚡ Fun fact: I'm a skateboarder and a Portrait Photographer
